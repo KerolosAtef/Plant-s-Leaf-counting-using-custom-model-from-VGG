@@ -41,9 +41,7 @@ In the these appraoches I also used some regularization and batch normalization.
 
 #### From these results the best model is classification with augmentation and regularization.
 
-
-
-
+#### To download the trained models you can find them here <a href='https://uottawa-my.sharepoint.com/personal/kataa028_uottawa_ca/_layouts/15/guestaccess.aspx?folderid=0b835e66531ca4db789e9b5ba9ce5a58f&authkey=Ae98ZTPJNvewLsT03ZpKZcE&e=PDwmiO'>download</a>
 
 
 
